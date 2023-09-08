@@ -1,0 +1,30 @@
+img {height: auto;  display: block; margin: auto;}
+
+#Tupac_Cartoon {height: 550px; width: 900px;}
+
+main {padding-top: 50px;} 
+
+p {text-align: center; font-size: 3rem;}
+
+h1 {text-align: center;}
+
+h1, h2 {
+  font-family: Verdana, Tahoma;}
+
+h2 {margin-top: 0px;
+  padding-top: 60px;
+}
+
+li {padding: 20px; text-align: left; font-size: 1.3rem;}
+
+#image-caption {margin: 15px 0 5px 0;
+line-height: 1.5;
+    text-align: center;}
+
+figcaption {
+    display: block;}
+
+body {font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;}
