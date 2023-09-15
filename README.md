@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CamaguNcoso
+- 👋 Hi, I’m Camagu Ncoso
 - 👀 I’m interested in meeting other developers and improving my coding skills
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on future projects that will solve real life problems 
 - 📫 How to reach me, contact me on Camaguncoso@gmail.com
 
